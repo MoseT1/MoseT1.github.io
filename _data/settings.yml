@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Moses Kim
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: 제 블로그에 오신 것을 환영합니다!
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Moses Kim
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Moses Kim</strong>
+  bio: 28살 <strong>청<strong>입니다. 
 
 
 #-------------------------------
